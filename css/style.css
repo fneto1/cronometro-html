@@ -1,0 +1,29 @@
+.cronometro{
+    text-align: center;
+}
+
+
+button{
+    height: 2.5em;
+    border: none;
+    color: white;
+    margin: 0 10px;
+    width: 5.5em;
+    
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start{
+    background: green;
+}
+
+#pause{
+    background: gray;
+}
+
+.stop{
+    background: red;
+}
